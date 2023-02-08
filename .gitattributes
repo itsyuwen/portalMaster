@@ -1,8 +1,4 @@
 *.psd filter=lfs diff=lfs merge=lfs -text
-*.zip filter=lfs diff=lfs merge=lfs -text
-*.jpg filter=lfs diff=lfs merge=lfs -text
-*.jpeg filter=lfs diff=lfs merge=lfs -text
-*.bc filter-lfs diff=lfs merge=lfs -text
+*.bc filter=lfs diff=lfs merge=lfs -text
 
 Chase-w5/Library/il2cpp_cache/linkresult_E657095A5CD202BC51E051590E33B7FF/build.bc filter=lfs diff=lfs merge=lfs -text
-*.bc filter=lfs diff=lfs merge=lfs -text
